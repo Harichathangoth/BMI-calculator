@@ -1,12 +1,15 @@
 *{
     color: white;
     font-family: sans-serif;
+    overflow-y: hidden;
 }
 .body{
     background-color: #7fffd4;
-    height: 750px;
+    height: 900px;
     width: 100%;
     padding-top: 50px;
+    
+    
 }
 .content{
 
