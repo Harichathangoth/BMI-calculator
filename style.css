@@ -1,0 +1,18 @@
+*{
+    color: white;
+    font-family: sans-serif;
+}
+.body{
+    background-color: #7fffd4;
+    height: 750px;
+    width: 100%;
+    padding-top: 50px;
+}
+.content{
+
+    background: url('./Images/crop-serious-sportswoman-with-dumbbell.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 30px;
+    margin-top: 500px;
+}
